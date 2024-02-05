@@ -5,14 +5,14 @@ This project implements a Django API for managing publications. The API includes
 ## Setup
 
 1.  **Clone the Repository:**    
-    `git clone https://github.com/chrlstlnaml/textcrafter.git
-    cd textcrafter` 
+    `git clone <repository_url>`
+    `cd django-publication-api` 
     
 3.  **Create and Activate Virtual Environment:**
- `python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate` 
+ `python -m venv venv source venv/bin/activate`
+ `# On Windows: venv\Scripts\activate` 
     
-4.  **Install Dependencies:**
+5.  **Install Dependencies:**
  `pip install -r requirements.txt` 
     
 
